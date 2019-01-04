@@ -1,0 +1,20 @@
+# Files without extensions
+*
+!*.*
+!*/
+# Except makefiles
+!Makefile
+!makefile
+
+# Compiled files
+*.out
+*.o
+
+# Core dumps
+*core
+*core.*
+*.core
+
+# VI(M) swap files
+*.swp
+
